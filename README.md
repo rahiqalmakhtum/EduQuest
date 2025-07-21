@@ -1,0 +1,1 @@
+EduQuest – Digital Education Management System EduQuest is an ongoing project for managing educational content like courses, quizzes, and student data. Built with Next.js for the frontend and NestJS with PostgreSQL for the backend, it includes features like user authentication, role-based access, dynamic dashboards, and advanced course management.
